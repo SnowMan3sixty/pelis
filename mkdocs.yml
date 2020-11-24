@@ -1,1 +1,8 @@
-site_name: My Docs
+site_name: MrSnowMan Films
+nav:
+  - Home: index.md
+  - Soy Leyenda: soyLeyenda.md
+  - Yo robot: yoRobot.md
+  - Iron Man: ironMan.md
+  - Le'Mans 66: leMans66.md
+theme: readthedocs
