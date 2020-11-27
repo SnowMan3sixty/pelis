@@ -1,8 +1,19 @@
 site_name: MrSnowMan Films
+site_url: 'http://127.0.0.1:8000/'
+repo_url: 'https://github.com/SnowMan3sixty/pelis'
+site_description: 'Projecte de proba amb mkdocs sobre pelicules'
 nav:
   - Home: index.md
   - Soy Leyenda: soyLeyenda.md
   - Yo robot: yoRobot.md
   - Iron Man: ironMan.md
   - Le'Mans 66: leMans66.md
-theme: readthedocs
+theme: material
+copyright: Copyright 2020 Ruben Oncina 
+extra:
+  social:
+    - icon: fontawesome/brands/instagram
+      link: https://instagram.com
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/squidfunk
+      name: squidfunk on Twitter
